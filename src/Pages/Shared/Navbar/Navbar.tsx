@@ -223,7 +223,7 @@ const Navbar = () => {
                 <div className="navbar-heading mt-2">
                     <h3 style={{ marginLeft: '30px' }}>
                         <Link className="navbar-h ms-5" to="/">
-                            <img src="https://res.cloudinary.com/dmfljlyu1/image/upload/v1694033302/listened_logo_uhmrcj.png" style={{ height: '50px' }} alt="Logo" className="logo-image me-3" />
+                            <img src="https://res.cloudinary.com/dcsivverj/image/upload/v1748002008/arutha_stdyfg.png" style={{ height: '60px' }} alt="Logo" className="logo-image me-3" />
                             Arutha
                         </Link>
                     </h3>
