@@ -16,12 +16,12 @@ function TechnologyUsed() {
             image: 'https://samitha-vidhanaarachchi.github.io/Research-Website/Images/tech/tensorflow.png'
         },
         {
-            name: 'Django',
-            image: 'https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png'
+            name: 'Vite',
+            image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/640px-Vitejs-logo.svg.png'
         },
         {
-            name: 'JavaScript',
-            image: 'https://cdn-icons-png.flaticon.com/512/5968/5968292.png'
+            name: 'Py Charm',
+            image: 'https://storage.caktusgroup.com/media/blog-images/logo.png'
         },
         {
             name: 'PostgreSQL',
@@ -40,16 +40,16 @@ function TechnologyUsed() {
             image: 'https://ih1.redbubble.net/image.1470587088.2816/st,small,507x507-pad,600x600,f8f8f8.jpg'
         },
         {
-            name: 'Audio Audition',
-            image: 'https://image.ceneostatic.pl/data/products/134397394/p-adobe-audition-cc-teams-2022-multi-win-mac-65297746bc01b12.jpg'
+            name: 'IntelliJ',
+            image: 'https://www.helenjoscott.com/wp-content/uploads/2020/09/1200px-IntelliJ_IDEA_Logo.png'
         },
         {
             name: 'Figma',
             image: 'https://cdn-icons-png.flaticon.com/512/5968/5968705.png'
         },
         {
-            name: 'Translate Api',
-            image: 'https://cdn.icon-icons.com/icons2/1222/PNG/512/1492616968-18-google-translate-text-language-translation_83413.png'
+            name: 'Type Script',
+            image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png'
         }
     ]
 

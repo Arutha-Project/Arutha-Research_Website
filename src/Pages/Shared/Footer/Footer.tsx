@@ -52,7 +52,7 @@ const Footer = () => {
                                 <li onClick={() => { window.location.replace("https://www.sliit.lk/") }}>SLIIT</li>
                                 <li>Malabe</li>
                                 <li>Kaduwela</li>
-                                <li>071 5273881</li>
+                                <li onClick={() => { window.location.replace("http://wa.me/+94719788669") }}>071 978 8669</li>
                             </ul>
                         </div>
                     </div>
