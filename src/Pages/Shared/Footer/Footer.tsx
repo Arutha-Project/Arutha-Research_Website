@@ -15,8 +15,8 @@ const Footer = () => {
                                         Arutha</h2>
                                 </div>
                                 <p className="card-text">
-                                    The main objective of the proposed voice-controlled audio
-                                    book system is to provide visually impaired university students in Sri Lanka
+                                    ARUTHA: Leveraging Technology to Enhance Gamified Bilingual Sign Language Learning for 
+                                    Hearing-Impaired Primary Students in Sri Lanka.
                                 </p>
                                 <div className="social mt-2 mb-3">
                                     <i className="fa fa-facebook-official fa-lg" onClick={() => { window.location.replace("https://www.facebook.com/ushan.dilusha.10") }}></i>
