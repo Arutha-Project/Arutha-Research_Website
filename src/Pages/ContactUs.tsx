@@ -1,14 +1,14 @@
-import React from 'react'
 import emailjs from 'emailjs-com';
+import swal from 'sweetalert';
 
 function ContactUs() {
     const handleSubmit = (e: any) => {
         e.preventDefault();
 
         // EmailJS service ID, template ID, and user ID
-        const serviceID = 'service_enqwz5g';
-        const templateID = 'template_uo5wmtr';
-        const userID = '2ZDkcLHfPtIIlKu3V';
+        const serviceID = 'service_hpbppm8';
+        const templateID = 'template_ua75nyu';
+        const userID = 'XNE4KQj4_rDCOegag';
 
         const name = e.target.elements.name.value;
         const email = e.target.elements.email.value;
@@ -24,7 +24,7 @@ function ContactUs() {
         }, userID)
             .then((response) => {
                 console.log('Email sent successfully!', response.status, response.text);
-                alert('Email sent successfully!');
+                swal("Email sent successfully!", " ", "success");
                 // Reset the form
                 e.target.elements.name.value = ''
                 e.target.elements.email.value = ''
@@ -32,7 +32,7 @@ function ContactUs() {
                 e.target.elements.message.value = ''
             })
             .catch((error) => {
-                console.error('Email sending failed:', error);
+                swal("Error sending email!", " ", "error");
             });
     };
     return (
