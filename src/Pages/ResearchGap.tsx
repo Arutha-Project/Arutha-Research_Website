@@ -9,17 +9,17 @@ function ResearchGap() {
                 <div className="work">
                     <i className="fas fa-search"></i>
                     <p className="work-heading">Identification & Classification</p>
-                    <p className="work-text">In the process of identifying and classifying research gaps in the field of accessible audio book systems for visually impaired students, several key areas emerged that warrant further investigation and exploration.</p>
+                    <p className="work-text">The research problem is classified as an educational accessibility issue, specifically affecting deaf primary students in Sri Lanka, with a focus on early mathematics instruction and sign language integration.</p>
                 </div>
                 <div className="work">
                     <i className="fas fa-chart-line"></i>
                     <p className="work-heading">Severity Assessment</p>
-                    <p className="work-text">Severity assessment is a critical component of various processes, particularly in fields such as software development, healthcare, and risk management. It involves evaluating the seriousness or potential impact.</p>
+                    <p className="work-text">This issue significantly hampers cognitive development, academic performance, and long-term opportunities for deaf students, making it a high-severity problem with both educational and social implications.</p>
                 </div>
                 <div className="work">
                     <i className="fas fa-comments"></i>
                     <p className="work-heading">Information Sharing</p>
-                    <p className="work-text">nformation sharing refers to the process of distributing, disseminating, or exchanging information among individuals, groups, organizations, or systems. It plays a crucial role in various aspects of modern society.</p>
+                    <p className="work-text">Raising awareness among educators, policymakers, and developers through inclusive platforms, training, and research dissemination is essential to promote SLSL-integrated educational tools and foster equitable learning environments.</p>
                 </div>
             </div>
         </section>

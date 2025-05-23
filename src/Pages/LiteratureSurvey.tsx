@@ -8,28 +8,29 @@ function LiteratureSurvey() {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-lg-7 pb-4 pb-lg-0">
-                            <img className="img-fluid rounded " style={{ height: '500px', marginLeft: '2%' }} src="https://res.cloudinary.com/dmfljlyu1/image/upload/v1694345563/xaxa_3_xzsjvr.jpg" alt="" />
+                            <img className="img-fluid rounded " style={{ height: '600px', marginLeft: '2%' }} src="https://res.cloudinary.com/dcsivverj/image/upload/v1748036325/Slide16_vpaplb.jpg" alt="" />
                         </div>
                         <div className="col-lg-5">
                             <p style={{ textAlign: 'justify' }} className='me-5'>
-                                Recent advances in deep neural networks have greatly improved speech recognition,
-                                but challenges persist for low-resource languages like Sinhala. ListenEd addresses
-                                Sinhala voice recognition issues through a combined approach, bridging accessibility
-                                gaps for the visually impaired in Sri Lanka.
+                                Visual and interactive learning methods significantly enhance outcomes for deaf students, especially in early education. Sign symbol 
+                                (letter) identification and word formation are vital for bilingual literacy, as noted by Marschark and Hauser (2012), who found that 
+                                sign language instruction improves vocabulary and reading skills.
                                 <br /><br />
-                                Some research has focused on Sinhala voice recognition, particularly for recognizing Sinhala
-                                digits and song names using Hidden Markov Models. However, due to a small dataset, this platform
-                                has accuracy limitations, mainly handling numeric and date/time queries. In contrast, ListenEd
-                                offers more accurate recognition for complex vocabulary.
+                                In mathematics, Pagliaro and Kritzer (2005) highlight the importance of visual-spatial learning tools. Deaf students often miss 
+                                out on traditional verbal teaching, but game-based systems that use visual symbols and sign language help improve number recognition, 
+                                arithmetic understanding, and student engagement. The repetition and immediate feedback in such gamified platforms support strong 
+                                foundational math skills, especially at the primary level.
                                 <br /><br />
-                                The Kaldi toolkit is a well-known open-source platform for voice recognition, but it requires
-                                substantial expertise and data curation for low-resource languages. ListenEd aims to provide faster
-                                and more accessible Sinhala voice recognition.
+                                For science and environment topics, interactive visuals aid in object identification, observation, and memory retention (Mayer, 2001). 
+                                Similarly, drawing activities boost creativity, fine motor skills, and conceptual learning. When paired with sign instruction, these 
+                                approaches further benefit cognitive development. Integrating all four educational functions—sign symbols, numbers, objects, and drawing into 
+                                a bilingual gamified platform like ARUTHA aligns with inclusive education best practices and supports the holistic development of deaf 
+                                primary students.
                                 <br /><br />
                                 <span style={{ fontSize: '10px' }}>References
                                     <br />
-                                    [1] Nassif, I. Shahin, I. Attili, M. Azzeh and K. Shaalan, "Speech Recognition Using Deep Neural Networks: A Systematic Review," in IEEE Access, vol. 7, pp. 19143-19165, 2019, doi: 10.1109/ACCESS.2019.2896880.
-                                </span>
+                                [1] Healthy Hearing, "Why you should learn sign language," Healthy Hearing, [online]. Available:  
+                                https://www.healthyhearing.com/report/52606-Why-you-should-learn-sign-language-in-the-new-year. [Accessed Feb. 15, 2025].                                </span>
                             </p>
                         </div>
                     </div>
