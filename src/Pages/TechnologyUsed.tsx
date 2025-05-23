@@ -73,9 +73,8 @@ function TechnologyUsed() {
                     ))}
                 </div>
             </div>
-
         </section>
     )
 }
 
-export default TechnologyUsed
+export default TechnologyUsed;
