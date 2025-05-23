@@ -1,7 +1,7 @@
 /* hero background image */
 .bgimage {
   height: 100vh;
-  background: url('https://scribemedia.com/wp-content/uploads/2022/03/How-to-Publish-an-Audiobook-in-5-Steps-700x406.jpg');
+  background: url('https://res.cloudinary.com/dcsivverj/image/upload/v1748022823/bg_xxecrh.jpg');
   background-size: cover;
   position: relative;
 }
@@ -78,7 +78,7 @@
   text-align: center;
   width: 100%;
   height: 620px;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5) 100%), url("https://scribemedia.com/wp-content/uploads/2022/03/How-to-Publish-an-Audiobook-in-5-Steps-700x406.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5) 100%), url("https://res.cloudinary.com/dcsivverj/image/upload/v1748022823/bg_xxecrh.jpg");
   background-size: cover;
   background-position: relative;
   background-repeat: no-repeat;
