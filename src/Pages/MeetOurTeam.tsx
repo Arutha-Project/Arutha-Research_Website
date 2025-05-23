@@ -3,43 +3,43 @@ import React from 'react'
 function MeetOurTeam() {
     const ourTeamPanl = [
         {
-            name: 'Mr. Thusithanjana Thilakarthna',
+            name: 'Mis. Wishalya Tissera',
             position: 'Supervisor',
-            image: 'https://static.sliit.lk/profile/thusithanjanat-1622696535.jpg',
-            department: 'Computer Science & Software Engineering'
+            image: 'https://res.cloudinary.com/dcsivverj/image/upload/v1748015084/1737371862612_ui30k7.jpg',
+            department: 'Department of Computer Science'
         },
         {
-            name: 'Mr. Sathira Hettiarachchi',
+            name: 'Mis. Shalini Rupasinghe ',
             position: 'Co_Supervisor',
-            image: 'https://static.sliit.lk/profile/sathirah-1679885067.jpg',
-            department: 'Computer Systems Engineering (CSE)'
+            image: 'https://res.cloudinary.com/dcsivverj/image/upload/v1748017377/1676908138170_svorw4.jpg',
+            department: 'Department of  Software Engineering'
         }
     ]
 
     const ourTeamMem = [
         {
-            name: 'Senadeera S.A.V.J.',
+            name: 'Gangabadage U.D ',
             position: 'Group Leader',
-            image: 'https://media.licdn.com/dms/image/C4D03AQHTlOHM8NKOaw/profile-displayphoto-shrink_800_800/0/1614565203783?e=2147483647&v=beta&t=gIx0Wm1wtz__kINjI3Nu_kW8t__VP74qBmH4pdEIGAE',
-            department: 'Computer Science & Software Engineering'
+            image: 'https://res.cloudinary.com/dcsivverj/image/upload/v1748017258/ushan_sfvxsm.jpg',
+            department: 'Department of Information Technology'
         },
         {
-            name: 'Nethmini G.A.H.A.',
+            name: 'Bandara J.M.O.N.',
             position: 'Group Member',
-            image: 'https://media.licdn.com/dms/image/C5603AQHcb0zJv_-MBg/profile-displayphoto-shrink_800_800/0/1657124009878?e=2147483647&v=beta&t=a-JkWMuof1qHaz7bX8F-sq_RKMK8_beStYSHcV1XNwU',
-            department: 'Computer Science & Software Engineering'
+            image: 'https://res.cloudinary.com/dcsivverj/image/upload/v1748016994/20241124_104750_-_Copy_z3olpo_e_background_removal_b_rgb_333B4C_f_png_vj32q1.png',
+            department: 'Department of Information Technology'
         },
         {
-            name: 'Perera G.U.L.K.',
+            name: 'Kalpage T.L.',
             position: 'Group Member',
-            image: 'https://media.licdn.com/dms/image/D5603AQFZaeGB6WnZ5w/profile-displayphoto-shrink_800_800/0/1691774591286?e=2147483647&v=beta&t=UDWkrMASU-oHxFBBODpx8LnG7AQqzJZ6vMqgbG3pVeg',
-            department: 'Computer Science & Software Engineering'
+            image: 'https://res.cloudinary.com/dcsivverj/image/upload/v1748017259/tiwanka_shxlgo.jpg',
+            department: 'Department of Information Technology'
         },
         {
-            name: 'Wanigasinghe W.W.L.K.G.',
+            name: 'Kumara H.M.I.M',
             position: 'Group Member',
-            image: 'https://media.licdn.com/dms/image/C5603AQGnBMwskpBqvw/profile-displayphoto-shrink_800_800/0/1656409186148?e=2147483647&v=beta&t=1JY6ZWlcPp7IySxX-_I6ECkodmTMZFKR4WA1K5nl75A',
-            department: 'Computer Science & Software Engineering'
+            image: 'https://res.cloudinary.com/dcsivverj/image/upload/v1748017258/ishara_mfo5pv.jpg',
+            department: 'Department of Information Technology'
         }
     ]
 
