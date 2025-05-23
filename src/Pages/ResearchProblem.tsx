@@ -10,19 +10,14 @@ function ResearchProblem() {
                     <div className="row align-items-center">
                         <div className="col-lg-6">
                             <h5 style={{ fontWeight: '700' }} className='ms-3'>Proposed Problem</h5>
-                            <h5 style={{ fontWeight: '700', color: 'orange' }} className='ms-3'>What are the current challenges faced by visually impaired university students in accessing learning materials and resources?</h5>
+                            <h5 style={{ fontWeight: '700', color: 'orange' }} className='ms-3'>How can technology-based, sign language-integrated tools improve learning outcomes for deaf primary students in key academic subject areas?</h5>
                             <p style={{ textAlign: 'justify' }} className='ms-3 mt-4'>
-                                Develop a voice-controlled system that is user-friendly and accessible for visually impaired students,
-                                which contains Sinhala voice recognition, voice-controlled system navigations. The students can use Sinhala
-                                language to navigate through ListenEd, control playbacks and search audiobooks accordingly. Therefore,
-                                ListenEd will help visually impaired students to get equal opportunities for their education.
-
-                                <br /><br />
-                                But the steps that are taken to enhance the education of visual impaired people are very low.
-                                It is really important to provide easily accessible educational materials to individuals who are
-                                visually impaired. ListenEd application is based on Sinhala language with Sinhala voice recognition
-                                enabled. So that the majority of students can use this application to enhance their academic performances.
-                                ListenEd recognize Sinhala commands and executes accordingly.
+                               Deaf students in Sri Lanka face major barriers in education due to a lack of accessible learning materials, 
+                               particularly in early math, science, language, and creative subjects. Conventional teaching methods heavily 
+                               depend on verbal instructions, which are not suitable for students with hearing impairments. Without early 
+                               foundational skills, especially in math and language, these students fall behind. There is a clear need for 
+                               innovative, culturally and linguistically appropriate solutions that integrate sign language to improve 
+                               engagement, comprehension, and academic performance in primary education.
                             </p>
                         </div>
                         <div className="col-lg-6 pb-4 pb-lg-0">
@@ -31,21 +26,23 @@ function ResearchProblem() {
                     </div>
                     <h5 style={{ fontWeight: '700' }} className='ms-3 mt-3'>Proposed Solution</h5>
                     <p style={{ textAlign: 'justify' }} className='ms-3 mt-4'>
-                        Voice recognition of ListenEd accomplished with several steps. Voice recognition, natural language processing
-                        and processing base verb form are those. The initial phase consists of voice recognition using the microphone
-                        of the user’s device. In this phase Google speech recognition APIs are used to capture Sinhala voice commands.
-                        After that the Sinhala voice commands are translated into English before the next phase. This translated text
-                        is then sent to the backend for further execution.
-                        Then the text is sent through a natural language processing algorithm. In here the sentence is broken down to
-                        nouns verbs, adverbs, and adjectives. The other parts of the sentences are discarded. From that the verbs are
-                        going through to the next phase.
-                        The next phase is processing base verb form with machine learning. Machine learning models were trained using
-                        a large data set which contained different types of verb forms. Preprocessing techniques were also used to
-                        reduce the complexity of the dataset and improve accuracy. For the text classification model several algorithms
-                        are tested and evaluated, including Support Vector Machine (SVM), Random Forest & Logistic Regression. Those
-                        algorithms were trained using the dataset. Random Forest classifier achieved the best accuracy and results.
-                        From those functions, the base form of the verb is predicted. Then that verb and others are sent to the frontend
-                        as the response.
+                        The proposed solution is the development of the “අරුත” application a comprehensive, sign language-integrated learning 
+                        platform tailored for primary school students with hearing impairments in Sri Lanka. This application is designed to 
+                        bridge the educational gap faced by deaf students by offering four key interactive learning modules: Sign Symbol (Letters) 
+                        Identification and Word Formation, Number Identification and Basic Arithmetic, Object and Element Recognition in Science 
+                        and the Environment, and Interactive Drawing Activities. Each of these modules is embedded with Sri Lankan Sign Language 
+                        (SLSL) support, ensuring that content delivery aligns with the visual communication needs of deaf learners. Through the use 
+                        of gamified activities, animations, and real-time feedback, the app promotes engagement, reinforces understanding, and 
+                        facilitates repeated practice in a stress-free, playful environment.
+
+                        <br /><br />
+                        This solution leverages technology to overcome the limitations of traditional teaching methods, which often rely on auditory 
+                        instructions unsuitable for deaf students. By providing a visually rich, interactive, and culturally relevant platform, “අරුත” 
+                        helps deaf students grasp foundational concepts in math, language, science, and creative arts during their critical developmental 
+                        years. The inclusion of SLSL not only enhances content accessibility but also promotes confidence and motivation among users. 
+                        Furthermore, by tracking user interactions and learning progress, the application can be continually refined to better meet learners' 
+                        needs. Overall, “අරුත” supports inclusive education by giving deaf children equal opportunities to succeed academically, 
+                        encouraging lifelong learning, and ultimately contributing to a more equitable educational landscape in Sri Lanka.
                     </p>
                 </div>
             </div>
