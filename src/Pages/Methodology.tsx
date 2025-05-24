@@ -6,7 +6,7 @@ function Methodology() {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-lg-6 pb-4 pb-lg-0">
-                            <img className="img-fluid rounded " style={{ height: '435px', }} src="https://i.ibb.co/hJ5f0WQ2/393542455-ec940166-6368-4536-a73e-24cf8a5c9234.png" alt="" />
+                            <img className="img-fluid rounded " style={{ height: '600px', }} src="https://res.cloudinary.com/dcsivverj/image/upload/v1748064030/New_Research_system_diagram-Page-1_pm7t8w.jpg" alt="" />
                         </div>
                         <div className="col-lg-5">
                             <p style={{ textAlign: 'justify' }}>
