@@ -41,28 +41,28 @@ function TimeLines() {
         {
             name: 'Final Report',
             date: 'April 2025',
-            progress: '80%',
+            progress: '75%',
             mark: '20',
             description: 'Final Report evalutes the completed project done throughout the year. Marks mentioned below includes marks for Individual & group reports and also Final report.'
         },
         {
             name: 'Final Presentation & Viva',
             date: 'May 2025',
-            progress: '100%',
+            progress: '95%',
             mark: '20',
             description: 'Viva is held individually to assess each members contribution to the project.'
         },
         {
             name: 'Website Assessment',
             date: 'June 2025',
-            progress: '57%',
+            progress: '97%',
             mark: '2',
             description: 'The Website helps to promote our research project and reveals all details related to the project.'
         },
         {
             name: 'Logbook',
             date: 'June 2025',
-            progress: '60%',
+            progress: '100%',
             mark: '3',
             description: 'Status of the project is validated through the Logbook. This also includes, Status documents 1 & 2.'
         }

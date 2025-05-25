@@ -1,6 +1,6 @@
 .navbar-h {
     text-decoration: none;
-    color: rgb(204, 45, 45);
+    color: rgb(109, 0, 0);
     text-transform: uppercase;
     font-family: 'Poppins', sans-serif;
     font-weight: 800;
@@ -8,7 +8,7 @@
 
 .stickynav {
     box-shadow: 0 2px 5px 1px rgb(64 60 67 / 16%);
-    background: rgb(48, 1, 1);
+    background: rgb(25, 224, 92);
     position: fixed !important;
     width: 100%;
     z-index: 3 !important;

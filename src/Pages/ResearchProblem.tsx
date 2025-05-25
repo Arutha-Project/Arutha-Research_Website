@@ -10,7 +10,7 @@ function ResearchProblem() {
                     <div className="row align-items-center">
                         <div className="col-lg-6">
                             <h5 style={{ fontWeight: '700' }} className='ms-3'>Proposed Problem</h5>
-                            <h5 style={{ fontWeight: '700', color: 'orange' }} className='ms-3'>How can technology-based, sign language-integrated tools improve learning outcomes for deaf primary students in key academic subject areas?</h5>
+                            <h5 style={{ fontWeight: '700', color: ' rgb(0, 161, 13)' }} className='ms-3'>How can technology-based, sign language-integrated tools improve learning outcomes for deaf primary students in key academic subject areas?</h5>
                             <p style={{ textAlign: 'justify' }} className='ms-3 mt-4'>
                                Deaf students in Sri Lanka face major barriers in education due to a lack of accessible learning materials, 
                                particularly in early math, science, language, and creative subjects. Conventional teaching methods heavily 
