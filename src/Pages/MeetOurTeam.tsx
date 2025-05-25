@@ -77,10 +77,10 @@ function MeetOurTeam() {
                                     </p>
                                 </div>
                                 <div className="card-read-more">
-                                    <a href={ourTeamPanel?.profileLink} style={{ fontSize: '14px', color: 'blue' }} className="btn btn-link btn-block ms-2">
+                                    <a href={ourTeamPanel?.profileLink} style={{ fontSize: '14px', color: '#0072b1' }} className="btn btn-link btn-block ms-2">
                                         <i className="fab fa-google me-1"></i> Linkedin
                                     </a>
-                                    <a href={ourTeamPanel?.email} style={{ fontSize: '14px', color: 'red' }} className="btn btn-link btn-block">
+                                    <a href={ourTeamPanel?.email} style={{ fontSize: '14px', color: '#EA4335' }} className="btn btn-link btn-block">
                                         <i className="fas fa-envelope-open-text me-1"></i> E-Mail
                                     </a>
                                 </div>
@@ -108,10 +108,10 @@ function MeetOurTeam() {
                                     </p>
                                 </div>
                                 <div className="card-read-more">
-                                    <a href={ourTeam?.profileLink} style={{ fontSize: '14px', color: 'blue' }} className="btn btn-link btn-block ms-2">
+                                    <a href={ourTeam?.profileLink} style={{ fontSize: '14px', color: '#0072b1' }} className="btn btn-link btn-block ms-2">
                                         <i className="fa-brands fa-linkedin"></i> Linkedin
                                     </a>
-                                    <a href={ourTeam?.email} style={{ fontSize: '14px', color: 'red' }} className="btn btn-link btn-block">
+                                    <a href={ourTeam?.email} style={{ fontSize: '14px', color: '#EA4335' }} className="btn btn-link btn-block">
                                         <i className="fas fa-envelope-open-text me-1"></i> E-Mail
                                     </a>
                                 </div>
