@@ -64,7 +64,7 @@ function Downloads() {
             name: 'Final Presentation',
             submittionDate: '2025-05-26',
             grouporindi: 'Group',
-            link: ''
+            link: 'https://drive.google.com/file/d/1ADn7JwuQtBvV6gcSyKxKJ7dPC62PpIX_/view?usp=drive_link'
         }
     ]
 
